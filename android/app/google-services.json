@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382851062341",
+    "project_id": "jdlk-hackathon",
+    "storage_bucket": "jdlk-hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382851062341:android:ac1fdf5e70122f7e83a12c",
+        "android_client_info": {
+          "package_name": "com.example.jdlk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382851062341-knoka8b0httnn9t0piqojf9g1sr217r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClhINWcgNFRVwIZEGxIke9Fj724MUznJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382851062341-knoka8b0httnn9t0piqojf9g1sr217r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
